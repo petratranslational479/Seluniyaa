@@ -105,7 +105,8 @@ Seluniyaa follows a modular, production-ready architecture:
 Seluniyaa is built by:
 
 - Mara → https://www.linkedin.com/in/thirumarangk-ai  
-- Senba → https://tsuyokigeijutsu.artstation.com  
+- Senba → https://tsuyokigeijutsu.artstation.com
+- Thennarasu → https://www.linkedin.com/in/thennarasu-e-
 
 ---
 
