@@ -4,7 +4,7 @@ Seluniyaa is a multi-product AI platform designed to help creators, builders, an
 
 🔗 Live Platform: 
 <a href="https://seluniyaa.vercel.app" target="_blank">
-  <img src="https://github.com/seluniyaa/Seluniyaa/blob/main/Seluniyaa.png" width="900"/>
+  <img src="https://github.com/seluniyaa/Seluniyaa/blob/main/Seluniyaa.png" width="300"/>
 </a>
 
 ---
