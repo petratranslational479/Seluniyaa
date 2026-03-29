@@ -2,7 +2,7 @@
 
 Seluniyaa is a multi-product AI platform designed to help creators, builders, and AI-first teams streamline creation, scale identity, and act on real-time insights — all within one connected system.
 
-🔗 Live Platform: 
+🔗 Live Platform: https://seluniyaa.vercel.app
 <a href="https://seluniyaa.vercel.app" target="_blank">
   <img src="https://github.com/seluniyaa/Seluniyaa/blob/main/Seluniyaa.png" width="300"/>
 </a>
