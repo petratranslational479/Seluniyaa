@@ -1,4 +1,4 @@
-# Seluniyaa — Unified AI Ecosystem for Creators  
+# Seluniyaa — AI Ecosystem  
 
 Seluniyaa is a unified AI platform designed to help creators, builders, and founders **scale themselves using AI** — by bringing ideas, execution, and insights into one connected system.  
 
